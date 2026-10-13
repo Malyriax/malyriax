@@ -1,5 +1,7 @@
 -  2nd-year Computer Engineering student @ **UPV (ETSINF)**
 -  **Java & Backend Development**
 -  Spanish • English • Russian
--  malyriax@gmail.com
+-  Passionate about **Competitive Programming**
+  - 🥉 **3rd place** @ CP-UPV (2025)
 -  Building projects & looking forward to future internships
+-  -  malyriax@gmail.com
