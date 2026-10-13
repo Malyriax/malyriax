@@ -2,3 +2,4 @@
 -  **Java & Backend Development**
 -  Spanish • English • Russian
 -  malyriax@gmail.com
+-  Building projects & looking forward to future internships
