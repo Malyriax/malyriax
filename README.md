@@ -1,5 +1,5 @@
 -  2nd-year Computer Engineering student @ **UPV (ETSINF)**
--  **Java & Backend Development**
+-  **Java & Backend Development** (currently diving deep into **Spring Boot**)
 -  Spanish • English • Russian
 -  Passionate about **Competitive Programming**
 - 🥉 **3rd place** @ CP-UPV (2025)
