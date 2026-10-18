@@ -2,6 +2,6 @@
 -  **Java & Backend Development** (currently diving deep into **Spring Boot**)
 -  Spanish • English • Russian
 -  Passionate about **Competitive Programming**
-    🥉 **3rd place** @ CP-UPV (2025)
+-      🥉 **3rd place** @ CP-UPV (2025)
 -  Building projects & looking forward to future internships
 -  malyriax@gmail.com
