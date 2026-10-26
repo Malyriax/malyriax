@@ -5,3 +5,4 @@
 -   🥉 **3rd place** @ CP-UPV (2025)
 -  Building projects & looking forward to future internships
 -  malyriax@gmail.com
+-  www.linkedin.com/in/lgoncharenko
